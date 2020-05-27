@@ -1,5 +1,5 @@
  <?php
- //conectamos con el servidor
+ //conectamos con el  servidor
 		$conectar=@mysql_connect('localhost','root','')
 		if(!$conectar)
 		{
